@@ -7,8 +7,6 @@
     <VerticalStackLayout>
 
 
-        
-
         <Entry  x:Name="nombres" Placeholder="nombres" Keyboard="Text"/>
 
         <Entry  x:Name="apellidos" Placeholder="apellidos" Keyboard="Text"/>
